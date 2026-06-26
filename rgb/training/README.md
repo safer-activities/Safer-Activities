@@ -8,7 +8,7 @@ fusion (feature + skeleton) models.
 This code trains temporal classifiers on **pre-extracted** visual features
 (not raw video). Features are extracted separately using
 `rgb/feature_extraction/` and stored as per-video `.npy` files.
-Pre-extracted features can be downloaded from [this link](https://drive.google.com/drive/folders/1lB3SWCtetAkRIi-6Arv6d3dh1jecRWaF?usp=sharing).
+Pre-extracted features can be downloaded from [this link](https://huggingface.co/datasets/SAFER-Activities/SAFER-Activities/tree/main/extracted_features).
 Pretrained RGB-only and fusion model weights can be downloaded from [this link](https://drive.google.com/drive/folders/1V8waixwypqlMf3WUuLhc2Uozjn5NPSaH?usp=drive_link).
 
 The training pipeline matches `keypoints_train/` (same sliding-window

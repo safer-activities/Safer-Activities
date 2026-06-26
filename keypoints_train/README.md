@@ -2,7 +2,7 @@
 
 This directory contains the necessary scripts and configuration files to train and test Simple-1D-CNN.
 
-The pickle files for the non-wheelchair and wheelchair datasets can be found through [this link](https://drive.google.com/file/d/10eY5oPk-LOqwCM2e1uRqGMsKDpxOL00_/view?usp=drive_link). 
+The pickle files for the non-wheelchair and wheelchair datasets can be found through [this link](https://huggingface.co/datasets/SAFER-Activities/SAFER-Activities/blob/main/pose_bboxes/3d_keypoints_pickle_ntu_format.zip). 
 
 ## Configuration Files
 
