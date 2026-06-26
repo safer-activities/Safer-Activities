@@ -1,32 +1,5 @@
 # SAFER Activities Dataset Code Repository
 
-<table>
-  <tr>
-    <td><img src="assets/walk-walker.gif" width="100%" /></td>
-    <td><img src="assets/exercise.gif" width="100%" /></td>
-  </tr>
-  <tr>
-    <td><img src="assets/fall.gif" width="100%" /></td>
-    <td><img src="assets/wc-fall.gif" width="100%" /></td>
-  </tr>
-</table>
-
-## Example Falls from Public Videos
-
-<table>
-  <tr>
-    <td><img src="assets/fall-2.gif" width="100%" /></td>
-    <td><img src="assets/fall-3.gif" width="100%" /></td>
-  </tr>
-  <tr>
-    <td><img src="assets/fall-4.gif" width="100%" /></td>
-    <td><img src="assets/wc-fall-2.gif" width="100%" /></td>
-  </tr>
-</table>
-
-Source for non-wheelchair falls: [FailArmy YouTube Channel](https://www.youtube.com/@failarmy)
-Source for wheelchair fall: [YouTube Video](https://www.youtube.com/watch?v=tL34DvqCVNs)
-
 This repository includes scripts for preprocessing videos to generate pickle files and training.
 
 Download the wheelchair keypoints dataset for human pose estimation through [this link](https://drive.google.com/file/d/1e6hAK0bHMI6P975IrIGWR7T1wC0HNLH6/view?usp=drive_link).
