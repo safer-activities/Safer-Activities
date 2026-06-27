@@ -2,9 +2,9 @@
 
 This directory contains scripts and configuration files for evaluating the performance of models trained on SAFER-Activities, as well as for running inference. The evaluation includes the ImViA external fall detection dataset (Charfi et al.). The data and configuration format is the same as used for training.
 
-All pretrained weights for 1DCNN can be found through [this link](https://drive.google.com/drive/folders/1FQMkcwpDEKERniblIRIKN-yHYC8Yw_wo).
+All pretrained weights for 1DCNN can be found through [this link](https://huggingface.co/datasets/SAFER-Activities/SAFER-Activities-Weights/tree/main/1dcnn).
 
-All pretrained weights for PySKL models can be found through [this link](https://drive.google.com/drive/u/0/folders/1kOtWbogvpBdXZdMTXnBxo3bZQPV3pX4I).
+All pretrained weights for PySKL models can be found through [this link](https://huggingface.co/datasets/SAFER-Activities/SAFER-Activities-Weights/tree/main/pyskl).
 
 <hr>
 
